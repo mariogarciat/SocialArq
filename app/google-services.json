@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "913235266694",
+    "firebase_url": "https://social-challenge.firebaseio.com",
+    "project_id": "social-challenge",
+    "storage_bucket": "social-challenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913235266694:android:14cb9b2228da5200",
+        "android_client_info": {
+          "package_name": "co.edu.udea.compumovil.socialchallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913235266694-q9ivq6tcqrek7n0tio9ulrc43nm93hgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.edu.udea.compumovil.socialchallenge",
+            "certificate_hash": "FCED71597F50DA8AEDEB20F801B6304D8B242297"
+          }
+        },
+        {
+          "client_id": "913235266694-2vn5e7hphnsoaua1n2js0tsfd9kuoq0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvHKGZ6QUcgegLX3xXsJGJl3PQJLx_lrM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913235266694-2vn5e7hphnsoaua1n2js0tsfd9kuoq0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

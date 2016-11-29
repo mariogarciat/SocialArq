@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="co.edu.udea.compumovil.socialchallenge.MainActivity">
+    <item
+        android:id="@+id/button_add"
+        android:icon="@drawable/add_icon"
+        android:title="@string/add_challenge"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/sign_out"
+        android:orderInCategory="100"
+        android:title="@string/sign_out"
+        app:showAsAction="never" />
+</menu>

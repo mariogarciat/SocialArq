@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Social Challenge</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profile</string>
+    <string name="activity">Activity</string>
+    <string name="challenge">Challenge</string>
+    <string name="title_challenge">Your challenge Name</string>
+    <string name="time_spent">How much time you are going to spend?</string>
+    <string name="time_message">You plan to finish at: </string>
+    <string name="save">Save</string>
+    <string name="add_task">Add Task</string>
+    <string name="facebook_application_id">290331644686531</string>
+    <string name="profile_name">Unknow User</string>
+    <string name="profile_level">Level</string>
+    <string name="profile_age">Age: </string>
+    <string name="profile_email">Email: </string>
+    <string name="profile_welcome">Name</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_task">Task name</string>
+    <string name="add_challenge">Add Challenge</string>
+    <string name="change_language">Change Language</string>
+    <string name="save_challenge">Save Challenge</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+
+</resources>
